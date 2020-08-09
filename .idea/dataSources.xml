@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="postgres@localhost" uuid="2f2d93fc-1dc0-4211-a110-3754b33f6ae5">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="candle_bot_db@localhost" uuid="82b97e7e-b148-43c2-b818-a6a88b977c28">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/candle_bot_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="org.hibernate.tutorial.jpa/Hibernate" uuid="aa2e8791-d2bc-4b3f-a49e-cd9f9b5e7726">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+D:/Java/project/TelegramBotMaven/src/main/resources/META-INF/persistence.xml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/candle_bot_db</jdbc-url>
+    </data-source>
+  </component>
+</project>

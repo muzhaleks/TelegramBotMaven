@@ -1,0 +1,5 @@
+TOKEN = 950960838:AAGBHjrxaxFqD6HwKmb_PhT6MzGppVFbQxs
+
+db_url = jdbc:postgresql:candle_bot_db
+db_login = postgres
+db_password = postgres
